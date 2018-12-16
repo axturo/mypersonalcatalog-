@@ -1,0 +1,14 @@
+body {
+  background-image: url(Screen%20Shot%202018-12-15%20at%2011.42.30%20PM.png);
+  background-size:contain;
+background-repeat: no-repeat; 
+position:absolute; 
+width:1000px; 
+height: 100px; 
+    
+
+}
+.bops{ 
+width: 0px; 
+
+}
